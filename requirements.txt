@@ -1,0 +1,7 @@
+pandas
+numpy
+MetaTrader5
+scikit-learn
+hmmlearn
+matplotlib
+python-dotenv
